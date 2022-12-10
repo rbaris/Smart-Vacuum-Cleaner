@@ -4,9 +4,9 @@ Bu projede akıllı süpürge yapılmıştır. Üzerindeki ultrasonik sensörler
 Bu projenin yazılımı Arduino(version 1.8.19) üzerinden yapılmıştır.  
 
 
-1 adet Arduino Uno
-1 adet L298N
-2 adet 18650 3.7 V 1200 mAh Li-ion Şarjlı Pil - Kutup Başlı
++ 1 adet Arduino Uno
++ 1 adet L298N
++ 2 adet 18650 3.7 V 1200 mAh Li-ion Şarjlı Pil - Kutup Başlı
 1 adet 18650 Pil için 2'li Pil Yuvası (18650-2) - Pil Yatağı
 2 adet HC-SR04 Ultrasonik Mesafe Sensörü
 1 adet Arduino UNO R3 Pleksi Kutu - Plexi Box for Arduino
